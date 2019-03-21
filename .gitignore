@@ -1,3 +1,5 @@
 src/jwe
 src/word_analogy
 src/zhwiki_corpus.txt
+radical.txt
+*-subcharacter/
