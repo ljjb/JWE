@@ -2,4 +2,6 @@ src/jwe
 src/word_analogy
 src/zhwiki_corpus.txt
 radical.txt
+*-radical.txt
 *-subcharacter/
+decomps.tar.gz
